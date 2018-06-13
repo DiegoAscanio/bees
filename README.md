@@ -9,4 +9,4 @@ Simplificando: Uma trans\* aciona a ferramenta para informar que está sofrendo 
 
 @s outr@s usuari@s da ferramenta se dirigem ao local para inibir (ou cessar) a ação de violência e tomam outras providências nesse sentido (chamam autoridades, veículos de imprensa, dentre outros).
 
-Ideia concebida a partir do hackeando pela diversidade, que achei no repositório de @geisasantos: https://github.com/perifericasRGSoC/hacknights
+Ideia concebida a partir do hackeando pela diversidade, que achei no repositório da @perifericasRGSoC, de autoria de @geisasantos: https://github.com/perifericasRGSoC/hacknights
